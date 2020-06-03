@@ -1,0 +1,14 @@
+#block-XiaoMi_AD
+||ad.xiaomi.com^
+||ad1.xiaomi.com^
+||ad.mi.com^
+||tat.pandora.xiaomi.com^
+||api.ad.xiaomi.com^
+||t7z.cupid.ptqy.gitv.tv^
+
+#block-LEBO_Player
+||sdkauth.hpplay.cn^
+||adeng.hpplay.cn^
+||ad.hpplay.cn^
+||conf.hpplay.cn^
+||fix.hpplay.cn^
