@@ -24,10 +24,16 @@
 ||gdmf.apple.com^
 
 #block-idm-update
-||tonec.com^
 ||registeridm.com^
+||www.registeridm.com^
+||www.internetdownloadmanager.com^
+||tonec.com^
+||www.tonec.com^
+||registeridm.com^
+||www.registeridm.com^
 ||secure.registeridm.com^
 ||internetdownloadmanager.com^
+||www.internetdownloadmanager.com^
 ||secure.internetdownloadmanager.com^
 ||mirror.internetdownloadmanager.com^
 ||mirror2.internetdownloadmanager.com^
