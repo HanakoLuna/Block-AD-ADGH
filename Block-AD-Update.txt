@@ -53,3 +53,7 @@
 ||cloud-rs-ru2.acronis.com^
 ||cloud-fes-ru2.acronis.com^
 ||rpc.acronis.com^
+
+#block-PicaACG-AD
+||ad-channel.wikawika.xyz^
+||ad-display.wikawika.xyz^
