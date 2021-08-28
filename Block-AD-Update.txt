@@ -1,6 +1,6 @@
 ! Title: HanakoLuna_Block-AD
-! Version: v6
-! Last Modified: 2021年04月13日 15:50
+! Version: v7
+! Last Modified: 2021年08月28日 17:24
 ! Homepage: https://github.com/HanakoLuna
 !
 #block-XiaoMi_AD
@@ -80,5 +80,6 @@
 ||i2am.nero.com^
 ||iam.nero.com^
 
-
+#block-MiWiFi-Update
+||api.miwifi.com^
 
