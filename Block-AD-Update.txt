@@ -10,6 +10,17 @@
 ||tat.pandora.xiaomi.com^
 ||api.ad.xiaomi.com^
 ||t7z.cupid.ptqy.gitv.tv^
+||sdkconfig.ad.xiaomi.com^
+||adv.sec.miui.com^
+||test.ad.xiaomi.com^
+||new.api.ad.xiaomi.com^
+||cdn.ad.xiaomi.com^
+||e.ad.xiaomi.com^
+||test.new.api.ad.xiaomi.com^
+||ssp.ad.xiaomi.com^
+||o2o.api.xiaomi.com^
+||api.cupid.ptqy.gitv.tv^
+||diagnosis.ad.xiaomi.com^
 
 #block-LEBO_Player
 ||sdkauth.hpplay.cn^
