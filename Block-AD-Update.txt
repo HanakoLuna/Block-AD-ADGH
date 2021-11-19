@@ -1,6 +1,6 @@
 ! Title: HanakoLuna_Block-AD
-! Version: v7
-! Last Modified: 2021年08月28日 17:24
+! Version: v8
+! Last Modified: 2021年11月19日 21:56
 ! Homepage: https://github.com/HanakoLuna
 !
 #block-XiaoMi_AD
