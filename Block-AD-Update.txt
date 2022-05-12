@@ -31,6 +31,10 @@
 
 #block-synology-Update
 ||update.synology.com^
+||update7.synology.com^
+||autoupdate7.synology.com^
+||autoupdate7.synology.cn^
+||global.download.synology.com^
 
 #block-Apple-OTA-Update
 ||mesu.apple.com^
