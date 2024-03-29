@@ -62,8 +62,6 @@
 ||alog.umeng.com^
 ||hotupgrade.hpplay.cn^
 ||pin.hpplay.cn^
-||api.io.mi.com^
-||device.io.mi.com^
 
 #block-LEBO_Player
 ||sdkauth.hpplay.cn^
