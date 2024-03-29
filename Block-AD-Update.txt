@@ -1,16 +1,9 @@
 ! Title: HanakoLuna_Block-AD
-! Version: v9
-! Last Modified: 2022年2月13日 13:14
+! Version: v10
+! Last Modified: 2024年3月30日
 ! Homepage: https://github.com/HanakoLuna
 !
 #block-XiaoMi_AD
-||ad.xiaomi.com^
-||ad1.xiaomi.com^
-||ad.mi.com^
-||tat.pandora.xiaomi.com^
-||api.ad.xiaomi.com^
-||t7z.cupid.ptqy.gitv.tv^
-||sdkconfig.ad.xiaomi.com^
 ||adv.sec.miui.com^
 ||test.ad.xiaomi.com^
 ||new.api.ad.xiaomi.com^
@@ -19,8 +12,58 @@
 ||test.new.api.ad.xiaomi.com^
 ||ssp.ad.xiaomi.com^
 ||o2o.api.xiaomi.com^
-||api.cupid.ptqy.gitv.tv^
+||api.cupid.ptqy.gitv.tv
 ||diagnosis.ad.xiaomi.com^
+||ad.xiaomi.com^
+||api.ad.xiaomi.com^
+||stat.pandora.xiaomi.com^
+||upgrade.mishop.pandora.xiaomi.com^
+||logonext.tv.kuyun.com^
+||config.kuyun.com^
+||mishop.pandora.xiaomi.com^
+||dvb.pandora.xiaomi.com^
+||api.ad.xiaomi.com^
+||de.pandora.xiaomi.com^
+||data.mistat.xiaomi.com^
+||jellyfish.pandora.xiaomi.com^
+||gallery.pandora.xiaomi.com^
+||bss.pandora.xiaomi.com^
+||gvod.aiseejapp.atianqi.com^
+||sdkauth.hpplay.cn^
+||adeng.hpplay.cn^
+||ad.hpplay.cn^
+||conf.hpplay.cn^
+||fix.hpplay.cn^
+||adcdn.hpplay.cn^
+||sl.hpplay.cn^
+||rp.hpplay.cn^
+||h5.hpplay.com^.cn^
+||hpplay.cdn.cibn.cc
+||sdkauth.hpplay.cn^
+||imdns.hpplay.cn^
+||vipauth.hpplay.cn^
+||rp.hpplay.cn^
+||sl.hpplay.cn^
+||519332DA.rtc.youme.im^
+||hotupgrade.hpplay.cn^
+||pin.hpplay.cn^
+||tvapp.hpplay.cn^
+||hpplay.cdn.cibn.cc^
+||image.hpplay.cn^
+||gslb.hpplay.cn^
+||rp.hpplay.cn^
+||cdn.hpplay.com^.cn^
+||h5.hpplay.com^.cn^
+||adeng.hpplay.cn^
+||conf.hpplay.cn^
+||adcdn.hpplay.cn^
+||g.dtv.cn.miaozhen.com^
+||android.bugly.qq.com^
+||alog.umeng.com^
+||hotupgrade.hpplay.cn^
+||pin.hpplay.cn^
+||api.io.mi.com^
+||device.io.mi.com^
 
 #block-LEBO_Player
 ||sdkauth.hpplay.cn^
@@ -73,6 +116,14 @@
 ||cloud-rs-ru2.acronis.com^
 ||cloud-fes-ru2.acronis.com^
 ||rpc.acronis.com^
+||liveupdate.acronis.com^
+||download.acronis.com^
+||orders.acronis.com^
+||ns1.acronis.com^
+||ns2.acronis.com^
+||ns3.acronis.com^
+||account.acronis.com^
+||gateway.acronis.com^
 
 #block-PicaACG-AD
 ||ad-channel.wikawika.xyz^
@@ -100,3 +151,14 @@
 
 #block-Miui-Update
 ||update.miui.com^
+
+#block-Studio-One
+||registration.presonus.com^
+||updates.presonus.com^
+||api.presonus.com^
+
+#block-Acdsee
+||acdid.acdsystems.com^
+||acdidserver.acdsee.cn^
+
+
