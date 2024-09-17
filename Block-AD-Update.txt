@@ -1,6 +1,6 @@
 ! Title: HanakoLuna_Block-AD
-! Version: v10
-! Last Modified: 2024年3月30日
+! Version: v11
+! Last Modified: 2024年9月17日
 ! Homepage: https://github.com/HanakoLuna
 !
 #block-XiaoMi_AD
@@ -146,6 +146,8 @@
 ||swscan.apple.com^
 ||xp.apple.com^
 ||gdmf.apple.com^
+||ns.itunes.apple.com^
+||gg.apple.com^
 
 #block-idm-update
 ||registeridm.com^
